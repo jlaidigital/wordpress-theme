@@ -40,13 +40,21 @@
 <!-- 	middle giant pictures-->    
 	<div class="twins">
     	<div class="leftTwin">
-    		<img src="" alt="">
-    	</div>
+				sdfdsfsddsf
+<!--     		<img src="<?php //bloginfo('template_directory') ?>/img/coffee_by_bed.jpg" alt="">
+ -->    	</div>
 <!-- right twin start-->    	
  		<div class="rightTwin">
+ 		sdfdsfsddsf
     		<img src="" alt="">
     	</div>
     </div>
+
+<!--    Special menu -->
+		<div class="specialMenu">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus, dolorem!</p>
+		</div>
+
 
     		<?php //get_template_part( 'loop', 'index' );	?>
 

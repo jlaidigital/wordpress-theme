@@ -1,10 +1,9 @@
 
 @import "header";
-
 @import "normalize";
 @import "variables";
 @import "footer";
-
+@import "index";
 /*
 Theme Name: Johar & .Co Theme
 Theme URI: http://hackeryou.com;
@@ -33,9 +32,8 @@ body {
 
 .content {
   float:left;
-  width:65%;
-  margin-right: 5%;
-
+  width:100%;
+  display: block;
 }
 
 .full {
