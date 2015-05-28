@@ -57,15 +57,17 @@
       </div>
               <!-- nav end -->
 
-          <div class="banner">
-               <img src="<?php bloginfo('template_directory') ?>/img/beansHead.jpg" alt="">
-             </div>
+              <div class="banner">
+                <img src="<?php bloginfo('template_directory') ?>/img/beansHead.jpg" alt="">
+              
+              </div>
 
-             <div class="overlay">
-               <h1>Johar & Co.</h1>
-               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-               <button>See Menu</button>
-             </div>
+              <div class="overlay">
+                <h1>Johar & Co.</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <button>See Menu</button>
+              </div>
+
 
 
   </div>
